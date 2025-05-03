@@ -1,5 +1,8 @@
+Project Title
+Battleship
+
 Description
- A Python implementation of the classic Battleship game. Play against the computer to sink all of its ships before it sinks yours!
+A Python implementation of the classic Battleship game. Play against the computer to sink all of its ships before it sinks yours!
  
  Features
  - Choose from three difficulty levels: Easy, Medium, and Hard.
